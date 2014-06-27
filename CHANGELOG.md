@@ -3,6 +3,7 @@
 * Update Modernizr to v2.8.2 (#211)
 * Update to Apache Server Configs 2.5.0
 * Update jQuery to v2.1.1 (#210)
+* Update Normalize.css to v3.0.1
 
 == 4.1.2
 
